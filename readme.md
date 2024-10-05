@@ -1,12 +1,12 @@
-# Overview
+# Hangman c++ program
 
 This is a hangman game written on CLion in c++. It has five chances to guess the correct letters.
 
 My purpose in writing this program is to practise using c++ while trying to expand my knowledge of programming languages.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+The following is a link to a youtube demonstration of the program.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=dwgUuX3vXVQ)
 
 # Development Environment
 
